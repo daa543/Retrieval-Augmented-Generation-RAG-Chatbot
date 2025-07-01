@@ -95,6 +95,17 @@ Prompt style:
 3. Uvicorn as the server
 
 ## How to run Locally:
-* Install dependencies:
+Install dependencies:
 ```bash
 pip install fastapi uvicorn jinja2 beautifulsoup4 requests sentence-transformers chromadb transformers langchain
+```
+Start the Web App:
+```bash
+uvicorn fastapi_chatbot:app --reload
+```
+Open your browser and navigate to:
+```bash
+http://127.0.0.1:8000
+```
+
+Results:
