@@ -1,0 +1,26 @@
+/* Additional styles can be added here if needed */
+.code-block {
+    background-color: #f8f9fa;
+    border-radius: 5px;
+    padding: 10px;
+    font-family: monospace;
+    white-space: pre-wrap;
+    margin: 10px 0;
+}
+
+.highlight {
+    background-color: #fff3cd;
+    padding: 2px 4px;
+    border-radius: 3px;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .user-message {
+        margin-left: 10%;
+    }
+    
+    .bot-message {
+        margin-right: 10%;
+    }
+}
