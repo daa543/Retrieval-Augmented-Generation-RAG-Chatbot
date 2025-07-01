@@ -1,1 +1,1 @@
-# Retrieval-Augmented-Generation-RAG-Chatbot
+# Retrieval Augmented Generation RAG Chatbot
