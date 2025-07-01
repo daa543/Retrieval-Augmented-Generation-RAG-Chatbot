@@ -109,3 +109,9 @@ http://127.0.0.1:8000
 ```
 
 Results:
+
+![Image](https://github.com/user-attachments/assets/c0e5cdf8-876f-4b2b-bf67-4f181fe6e1ab)
+
+![Image](https://github.com/user-attachments/assets/cec2a5b0-83fd-4f0c-9be4-837d836cf18a)
+
+![Image](https://github.com/user-attachments/assets/f00c6bb2-b8e8-4115-a963-1f12400874f9)
